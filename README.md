@@ -1,2 +1,2 @@
 # LAB2
-# BuiMinhDuc
+BuiMinhDuc
